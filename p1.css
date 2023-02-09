@@ -1,0 +1,6 @@
+.div1{
+    background:  linear-gradient(black,red,white,red,black);
+    color: aqua;
+    text-align: center;
+    height: 500px;
+}
